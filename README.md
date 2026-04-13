@@ -22,7 +22,7 @@ pip install -r requirements.txt
 streamlit run sales_app.py
 
 ## 📸 Output
-![Sales Dashboard](screenshot.png)
+![Sales Dashboard](screenshot.png.png)
 
 ##  Author
 Azaz Ahmed
